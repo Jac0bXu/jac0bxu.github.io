@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Your Name - Personal Website</title>
+        <link>https://jac0bxu.github.io/</link>
+        <description>Personal website and blog</description>
+        <atom:link href="https://jac0bxu.github.io/index.xml" rel="self" type="application/rss+xml"/>
+        <language>en-us</language>
+        <lastBuildDate>2025-01-01T00:00:00+00:00</lastBuildDate>
+        <pubDate>2025-01-01T00:00:00+00:00</pubDate>
+        <!-- Add your posts here -->
+    </channel>
+</rss>
+
